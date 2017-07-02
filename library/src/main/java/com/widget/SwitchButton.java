@@ -21,7 +21,7 @@ import com.suke.widget.R;
 
 
 /**
- * SwitchButton.
+ * Created by tony on 2016/7/2.
  */
 public class SwitchButton extends View implements Checkable {
     private static final int DEFAULT_WIDTH = dp2pxInt(58);
